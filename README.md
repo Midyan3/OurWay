@@ -1,16 +1,9 @@
-# firstly
+# Our Way
 
-A new Flutter project.
+**Our Way** is a Flutter-based Android app designed to help people connect with others in their area for activities like biking, basketball, and more. The app is currently in its early stages of development.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Connect Locally:** Find people nearby who are interested in similar activities.
+- **Simple Interface:** Easy-to-use interface to browse and join activities.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
